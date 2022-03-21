@@ -68,6 +68,6 @@ export default {
   build: {
   },
   generate: {
-    dir: 'dist'
+    dir: 'puglic'
   }
 }
